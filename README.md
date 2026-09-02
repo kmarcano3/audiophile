@@ -14,12 +14,12 @@ run through a full checkout flow with form validation and an order summary.
 
 ## Features
 
-- **Product catalog** — category pages for headphones, speakers, and earphones,
+- **Product catalog** - category pages for headphones, speakers, and earphones,
   plus a dynamic `[slug]` route for individual product detail pages
-- **Responsive imagery** — every product ships mobile, tablet, and desktop assets
-- **Persistent cart** — quantities merge when re-adding a product, and an item at
+- **Responsive imagery** - every product ships mobile, tablet, and desktop assets
+- **Persistent cart** - quantities merge when re-adding a product, and an item at
   a count of 1 leaves the cart entirely rather than dropping to 0
-- **Checkout** — billing, shipping, and payment forms with e-Money and Cash on
+- **Checkout** - billing, shipping, and payment forms with e-Money and Cash on
   Delivery options, a live order summary with 8.25% sales tax and free
   shipping, and an order confirmation view
 
